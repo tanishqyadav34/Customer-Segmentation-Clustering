@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project involves grouping customers into distinct segments based on their purchasing behavior and annual income. It implements an unsupervised clustering pipeline using **K-Means Clustering** to reveal distinct purchasing segments.
+![Customer Segments Graph](customer_segments.png)
 
 ## Business Impact
 * **Targeted Marketing:** Identified "High Income, High Spending" clusters for luxury campaigns.
